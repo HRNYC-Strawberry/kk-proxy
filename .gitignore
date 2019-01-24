@@ -1,0 +1,11 @@
+## MAC files ##
+.DS_Store
+
+## NPM ##
+npm
+npm-debug.log
+node_modules/
+README.1.md
+
+# Private Configuration Files
+service_urls.json
